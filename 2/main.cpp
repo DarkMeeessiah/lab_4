@@ -1,6 +1,6 @@
 /**
-* @file modAlphaCipher.h
-* @author Гарынов Д.Д.
+* @file modAlphaCipher
+автор Максон
 * @version 1.0.0
 * @brief Заголовочный файл для модуля modAlphaCipher
 * @date 05.01.2023
